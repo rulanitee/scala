@@ -1,5 +1,7 @@
 /**
-  * Created by dev on 7/2/18.
+  * Pretty printable table
+  *
+  * based on https://stackoverflow.com/questions/7539831/scala-draw-table-to-console
   */
 object PrintableTable {
 
